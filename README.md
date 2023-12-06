@@ -1,2 +1,2 @@
-# Face-and-Age-Prediction
+# Gender-and-Age-Prediction
 Data link => https://www.kaggle.com/datasets/jangedoo/utkface-new
